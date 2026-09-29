@@ -36,5 +36,4 @@ PG Academic Project
 Ranjithanakka
 
 ## Project Screenshot
-
-![Network Intrusion Detection System](SCREENSHOT.png)
+[View Project Screenshots](SCREENSHOTS.docx)
