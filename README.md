@@ -34,3 +34,7 @@ PG Academic Project
 
 ## Author
 Ranjithanakka
+
+## Project Screenshot
+
+![Network Intrusion Detection System](SCREENSHOT.png)
