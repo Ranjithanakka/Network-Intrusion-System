@@ -35,5 +35,29 @@ PG Academic Project
 ## Author
 Ranjithanakka
 
-## Project Screenshot
-[View Project Screenshots](SCREENSHOTS.docx)
+## Project Screenshots
+
+### Screenshot 1
+![Network Intrusion Detection System](screenshot1.png)
+
+### Screenshot 2
+![Network Intrusion Detection System](screenshot2.png)
+
+### Screenshot 3
+![Network Intrusion Detection System](screenshot3.png)
+
+### Screenshot 4
+![Network Intrusion Detection System](screenshot4.png)
+
+### Screenshot 5
+![Network Intrusion Detection System](screenshot5.png)
+
+### Screenshot 6
+![Network Intrusion Detection System](screenshot6.png)
+
+### Screenshot 7
+![Network Intrusion Detection System](screenshot7.png)
+
+### Screenshot 8
+![Network Intrusion Detection System](screenshot8.png)
+
